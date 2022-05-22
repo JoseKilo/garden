@@ -4,6 +4,17 @@ site_url: https://josekilo.github.io/garden/
 theme:
   name: material
   favicon: img/favicon.ico
+  palette:
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
