@@ -15,3 +15,9 @@ mkdocs serve
 ```
 mkdocs build
 ```
+
+# Deploy to Github pages
+
+```
+mkdocs gh-deploy
+```
