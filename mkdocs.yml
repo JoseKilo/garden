@@ -4,6 +4,7 @@ site_url: https://josekilo.github.io/garden/
 theme:
   name: material
   favicon: img/favicon.ico
+  logo: img/logo.png
   palette:
     - scheme: default
       primary: teal
