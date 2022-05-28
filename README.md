@@ -4,7 +4,7 @@
 pip install -r requirements.txt
 ```
 
-# Local usage
+# Development server
 
 ```
 mkdocs serve
