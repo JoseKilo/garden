@@ -1,3 +1,8 @@
+# My Digital Garden
+
+Link to the rendered version:
+[https://josekilo.github.io/garden/](https://josekilo.github.io/garden/).
+
 # Setup
 
 ```
