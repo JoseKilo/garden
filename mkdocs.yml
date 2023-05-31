@@ -17,6 +17,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
 markdown_extensions:
+  - attr_list
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite

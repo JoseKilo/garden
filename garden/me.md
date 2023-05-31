@@ -1,5 +1,7 @@
 # Me
 
+![me](img/me.webp){ width="350px" }
+
 A little about me:
 
 * I finished studying in 2013.
