@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://josekilo.github.io/garden/</loc>
-         <lastmod>2022-05-28</lastmod>
+         <lastmod>2023-05-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://josekilo.github.io/garden/me/</loc>
-         <lastmod>2022-05-28</lastmod>
+         <lastmod>2023-05-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://josekilo.github.io/garden/mkdocs/</loc>
-         <lastmod>2022-05-28</lastmod>
+         <lastmod>2023-05-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://josekilo.github.io/garden/trek/</loc>
+         <lastmod>2023-05-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
