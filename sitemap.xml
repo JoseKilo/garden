@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://josekilo.github.io/garden/favorite-reads/</loc>
+         <lastmod>2023-05-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://josekilo.github.io/garden/me/</loc>
          <lastmod>2023-05-31</lastmod>
          <changefreq>daily</changefreq>
