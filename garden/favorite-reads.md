@@ -1,4 +1,4 @@
-# Favoring articles
+# Favourite articles
 
 Some articles that I find interesting (or that I found interesting at some
 point). In no particular order.
