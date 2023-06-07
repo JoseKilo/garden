@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://josekilo.github.io/garden/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2023-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://josekilo.github.io/garden/favorite-reads/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2023-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://josekilo.github.io/garden/how-to-test-infinite-loop/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2023-06-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://josekilo.github.io/garden/huel/</loc>
+         <lastmod>2023-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://josekilo.github.io/garden/me/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2023-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://josekilo.github.io/garden/mkdocs/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2023-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://josekilo.github.io/garden/projects/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2023-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://josekilo.github.io/garden/trek/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2023-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
